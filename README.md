@@ -1,12 +1,19 @@
-# `create-react-app` ... with Redux
+# Massive Carousel Exercise
 
-This is a barebones implementation of Redux with a React app that was generated with `create-react-app`, and then ejected with `npm run eject`.
+This is a small web app, implementing a carousel based on a JSON data-source.
 
-:bulb: This repository consists of two commits and only two commits.  
+It show-cases my skills with ReactJS and Redux.
 
- 1. **first commit** is the base code of a `create-react-app` app source code after eject (`npm run eject`)
- 2. **second commit** are the sample additions to implement basic redux
+This app was bootstrapped with [`create-react-app` ... with Redux](https://github.com/tstringer/create-react-app-with-redux).
 
-:bulb: :bulb: It is worth noting that it is **not** required to run `npm run eject` in order to get Redux implemented in this app.  Implementing Redux in the app without ejecting is completely possible
+## Installation
 
-![demo](images/demo.gif)
+```
+yarn install
+```
+
+## Running
+
+```
+yarn start
+```
